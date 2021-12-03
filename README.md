@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pavel Abramov
 - 🚀 Software engineer at Zededa
-- 📫 How to reach me uncle.decart at gmail.com
 
 <!---
 zededaPavel/zededaPavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
